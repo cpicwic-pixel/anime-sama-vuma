@@ -1,0 +1,13 @@
+{
+  "id": "attack-on-titan",
+  "name": "L'Attaque des Titans",
+  "type": "series",
+  "description": "Dans un monde menacé par des Titans, l'humanité lutte pour survivre derrière d'immenses murailles.",
+  "year": 2013,
+  "genres": [
+    "Action",
+    "Drame",
+    "Fantastique"
+  ],
+  "homepage": "https://anime-sama.to/"
+}

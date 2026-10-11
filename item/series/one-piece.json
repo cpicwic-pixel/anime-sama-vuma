@@ -1,0 +1,13 @@
+{
+  "id": "one-piece",
+  "name": "One Piece",
+  "type": "series",
+  "description": "Monkey D. Luffy part à la recherche du trésor légendaire One Piece pour devenir le roi des pirates.",
+  "year": 1999,
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantastique"
+  ],
+  "homepage": "https://anime-sama.to/"
+}

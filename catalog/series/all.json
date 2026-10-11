@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "id": "one-piece",
+      "name": "One Piece",
+      "type": "series",
+      "description": "Monkey D. Luffy part à la recherche du trésor légendaire One Piece pour devenir le roi des pirates.",
+      "year": 1999,
+      "genres": [
+        "Action",
+        "Aventure",
+        "Fantastique"
+      ],
+      "homepage": "https://anime-sama.to/"
+    },
+    {
+      "id": "naruto",
+      "name": "Naruto",
+      "type": "series",
+      "description": "Naruto Uzumaki rêve de devenir Hokage et de gagner la reconnaissance de son village.",
+      "year": 2002,
+      "genres": [
+        "Action",
+        "Aventure"
+      ],
+      "homepage": "https://anime-sama.to/"
+    },
+    {
+      "id": "attack-on-titan",
+      "name": "L'Attaque des Titans",
+      "type": "series",
+      "description": "Dans un monde menacé par des Titans, l'humanité lutte pour survivre derrière d'immenses murailles.",
+      "year": 2013,
+      "genres": [
+        "Action",
+        "Drame",
+        "Fantastique"
+      ],
+      "homepage": "https://anime-sama.to/"
+    },
+    {
+      "id": "demon-slayer",
+      "name": "Demon Slayer",
+      "type": "series",
+      "description": "Tanjiro rejoint les pourfendeurs de démons après le drame qui frappe sa famille.",
+      "year": 2019,
+      "genres": [
+        "Action",
+        "Fantastique"
+      ],
+      "homepage": "https://anime-sama.to/"
+    },
+    {
+      "id": "jujutsu-kaisen",
+      "name": "Jujutsu Kaisen",
+      "type": "series",
+      "description": "Yuji Itadori est entraîné dans le monde dangereux des fléaux et des exorcistes.",
+      "year": 2020,
+      "genres": [
+        "Action",
+        "Surnaturel"
+      ],
+      "homepage": "https://anime-sama.to/"
+    },
+    {
+      "id": "frieren",
+      "name": "Frieren",
+      "type": "series",
+      "description": "Après la victoire contre le roi des démons, l'elfe Frieren découvre ce que signifie le temps pour les humains.",
+      "year": 2023,
+      "genres": [
+        "Aventure",
+        "Fantasy",
+        "Drame"
+      ],
+      "homepage": "https://anime-sama.to/"
+    },
+    {
+      "id": "my-hero-academia",
+      "name": "My Hero Academia",
+      "type": "series",
+      "description": "Dans un monde où les pouvoirs sont courants, Izuku Midoriya rêve de devenir un héros.",
+      "year": 2016,
+      "genres": [
+        "Action",
+        "Super-héros"
+      ],
+      "homepage": "https://anime-sama.to/"
+    },
+    {
+      "id": "spy-x-family",
+      "name": "Spy x Family",
+      "type": "series",
+      "description": "Un espion, une tueuse et une télépathe forment une famille improbable.",
+      "year": 2022,
+      "genres": [
+        "Comédie",
+        "Action"
+      ],
+      "homepage": "https://anime-sama.to/"
+    }
+  ],
+  "nextCursor": null
+}

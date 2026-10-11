@@ -1,0 +1,12 @@
+{
+  "id": "demon-slayer",
+  "name": "Demon Slayer",
+  "type": "series",
+  "description": "Tanjiro rejoint les pourfendeurs de démons après le drame qui frappe sa famille.",
+  "year": 2019,
+  "genres": [
+    "Action",
+    "Fantastique"
+  ],
+  "homepage": "https://anime-sama.to/"
+}

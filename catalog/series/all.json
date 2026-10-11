@@ -86,18 +86,6 @@
         "Super-héros"
       ],
       "homepage": "https://anime-sama.to/"
-    },
-    {
-      "id": "spy-x-family",
-      "name": "Spy x Family",
-      "type": "series",
-      "description": "Un espion, une tueuse et une télépathe forment une famille improbable.",
-      "year": 2022,
-      "genres": [
-        "Comédie",
-        "Action"
-      ],
-      "homepage": "https://anime-sama.to/"
     }
   ],
   "nextCursor": null

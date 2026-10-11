@@ -1,0 +1,25 @@
+{
+  "id": "fr.animesama.catalog",
+  "name": "Anime-Sama — Découverte d'animes",
+  "specVersion": 2,
+  "version": "0.3.0",
+  "description": "Catalogue de découverte d'animes pour Vuma/mHub. Métadonnées et liens externes ; aucun flux vidéo fourni.",
+  "resources": [
+    "catalog",
+    "item"
+  ],
+  "types": [
+    "series"
+  ],
+  "catalogs": [
+    {
+      "id": "all",
+      "name": "Animes",
+      "type": "series",
+      "options": {
+        "shape": "portrait",
+        "displayName": true
+      }
+    }
+  ]
+}

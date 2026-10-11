@@ -1,0 +1,12 @@
+{
+  "id": "naruto",
+  "name": "Naruto",
+  "type": "series",
+  "description": "Naruto Uzumaki rêve de devenir Hokage et de gagner la reconnaissance de son village.",
+  "year": 2002,
+  "genres": [
+    "Action",
+    "Aventure"
+  ],
+  "homepage": "https://anime-sama.to/"
+}

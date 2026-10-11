@@ -1,0 +1,12 @@
+{
+  "id": "my-hero-academia",
+  "name": "My Hero Academia",
+  "type": "series",
+  "description": "Dans un monde où les pouvoirs sont courants, Izuku Midoriya rêve de devenir un héros.",
+  "year": 2016,
+  "genres": [
+    "Action",
+    "Super-héros"
+  ],
+  "homepage": "https://anime-sama.to/"
+}
